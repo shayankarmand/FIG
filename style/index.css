@@ -1,0 +1,7 @@
+h1 {color:rgb(62, 62, 172);font-size: 40px;font-weight: 300;font-style: italic;text-align:center;background-color: azure;}
+p {color:rgba(253, 253, 255, 0.904);font-weight: 300;}
+h2 {color:rgba(255, 255, 255, 0.904);font-weight: 500;font: 40px;}
+h3{color: aliceblue;}
+body{background-image: url(../Pages/images/wp3472357-samurai-battle-wallpaper.png);background-size: cover; background-attachment: fixed;}
+img{border-width: 200px;
+border-color:brown;} 
